@@ -1,4 +1,4 @@
-  import random
+import random
 
 def attack_and_defend():
     try:
